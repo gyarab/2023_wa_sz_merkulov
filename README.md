@@ -4,7 +4,8 @@
 
 # NAZDAR PSYCHOPATI !!!!
 
-![Majkl Punk](https://media.tenor.com/-bt0cHfM7rUAAAAC/majkl-punk.gif)
+![majkl-punk](https://github.com/gyarab/2023_wa_sz_merkulov/assets/94057761/942263f7-0c67-41d7-91e4-b503ecf3e7c8)
+
 
 - To je jasný ESO PESO !!!
 - [Roh je pulka gólu](https://www.youtube.com/watch?v=0dCplAfh8nQ&ab_channel=Sk%C4%8E%C3%A1bliceU19)
