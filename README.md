@@ -9,7 +9,7 @@
 
 - To je jasný ESO PESO !!!
 - [Roh je pulka gólu](https://www.youtube.com/watch?v=0dCplAfh8nQ&ab_channel=Sk%C4%8E%C3%A1bliceU19)
-- [milujupraci.cz](http://milujupraci.cz)
+- milujupraci.cz
 - Vykloubený koleno může bolet [no](https://www.youtube.com/watch?v=xKMYclDxTLA&ab_channel=MilujemeP%C3%A1rno)
 - Lion 5
 
