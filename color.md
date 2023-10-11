@@ -8,9 +8,14 @@
 
 # Moje barvy
 - #086E3F
-- #FFFFFF
-- Vybral jsem si tyto barvy, protože jsou to barvy [nejlepšího klubu na světě](https://sektor1905.cz/)
+![image](https://placehold.co/600x400/086E3F/png)
+- #1A6E08
+![image](https://placehold.co/600x400/1A6E08/png)
+- #08596E
+![image](https://placehold.co/600x400/08596E/png)
+- #086E61
+![image](https://placehold.co/600x400/086E61/png)
+- #086E1B
+![image](https://placehold.co/600x400/086E1B/png)
 
-# Logo
-![image](https://logowik.com/content/uploads/images/skoda-2023-new2313.logowik.com.webp)
-![image](https://www.bohemians.cz/images/orig/hraci_akcni_jednotlivci/130623_1303_220620_1144_LOGO_BOHEMIANS_20192020.PNG.JPG)
+- Zelená barva působí uklidňujícím dojmem. Je to barva jistoty, spokojenosti a rovnováhy. Zvolil bych tyto barvy pro logo firmy ktera bude vlastnit SPA salony ATRAPS.
