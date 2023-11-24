@@ -12,10 +12,34 @@
     <a href="treti.html">treti</a>
     <h1>Test HTML s CSS</h1>
 
+    <button onclick="zmen()">Mackej me ty kundo</button>
+
+    <img src = "https://place-hold.it/200x100/ff0000" alt ="cerveny">
+    <img id="obr2" src = "https://place-hold.it/200x100/00ff00" alt ="zeleny" style="display: none;">
+    <img src = "https://place-hold.it/200x100/0000ff" alt ="modry">
+
     <p class="tyrkysove velke-radkovani">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt veniam consequuntur illum necessitatibus blanditiis odio fuga voluptate fugit, quas sequi perferendis suscipit, error reiciendis placeat distinctio nisi assumenda quasi commodi.</p>
     
     <p class="ruzove velke-radkovani">Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit ullam vel perspiciatis eligendi distinctio, eveniet adipisci ducimus eius commodi ab quis illo fuga doloribus inventore iusto porro iste minima voluptate.</p>
     
     <p class="cervene velke-radkovani">Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus excepturi soluta, id corporis, officiis facilis quo consequuntur dolores maiores dolorum, aut quos blanditiis sapiente omnis aperiam doloribus eligendi rem repellat!</p>
+
+    <script>
+        var otevreno = false;
+
+        function zmen() {
+            otevreno = !otevreno
+            console.log(otevreno)
+
+            el = document.getElementById("obr2")
+            if (otevreno){
+                el.style.display = "block";
+            }
+            else {
+                el.style.display = "none"
+            }
+        
+        }
+    </script>
 </body>
 </html>
